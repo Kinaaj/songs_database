@@ -1,0 +1,26 @@
+{
+  "id": "stanky",
+  "title": "Stánky",
+  "author": "Brontosauři",
+  "key": "D dur",
+  "blocks": [
+    {
+      "id": "b1",
+      "type": "Sloka 1",
+      "lyrics": "[D]U stánků [G]na levnou krásu\n[D]postávaj [G]a smějou [A7]se\n[D]s cigaretou [G]a s holkou [A7]bez peněz.",
+      "arrangement": {
+        "Kytara": { "lineStyle": "solid", "comment": "Vybrnkávání" },
+        "Cajon": { "lineStyle": "empty", "comment": "Pauza" }
+      }
+    },
+    {
+      "id": "b2",
+      "type": "Refrén",
+      "lyrics": "[D]Jenom [G]tak na rohu [A7]stát\n[D]a nechat [G]čas líně [A7]plynout.",
+      "arrangement": {
+        "Kytara": { "lineStyle": "solid", "comment": "Rytmika" },
+        "Cajon": { "lineStyle": "solid", "comment": "4/4 rytmus" }
+      }
+    }
+  ]
+}

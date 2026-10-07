@@ -1,0 +1,26 @@
+{
+  "id": "slavici-z-madridu",
+  "title": "Slavíci z Madridu",
+  "author": "Waldemar Matuška",
+  "key": "D moll",
+  "blocks": [
+    {
+      "id": "b1",
+      "type": "Sloka 1",
+      "lyrics": "[Dmi]Nebe je modrý a [A7]zlatý,\nbílá je sluneční [Dmi]zář,\nhorko a sváteční [A7]šaty,\nvřava a rozhicovaná [Dmi]tvář.",
+      "arrangement": {
+        "Kytara": { "lineStyle": "solid", "comment": "Flamenco intro" },
+        "Basa": { "lineStyle": "dashed", "comment": "Na 1. dobu" }
+      }
+    },
+    {
+      "id": "b2",
+      "type": "Refrén",
+      "lyrics": "[Dmi]Lalalala [A7]lalalala,\n[A7]lalalala [Dmi]lalala.",
+      "arrangement": {
+        "Kytara": { "lineStyle": "solid", "comment": "Plný rytmus" },
+        "Basa": { "lineStyle": "solid", "comment": "Chodící basa" }
+      }
+    }
+  ]
+}

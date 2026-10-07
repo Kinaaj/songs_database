@@ -1,0 +1,26 @@
+{
+  "id": "severni-vitr",
+  "title": "Severní vítr",
+  "author": "Jaroslav Uhlíř / Zdeněk Svěrák",
+  "key": "C dur",
+  "blocks": [
+    {
+      "id": "b1",
+      "type": "Sloka 1",
+      "lyrics": "[C]Jdu s děravou [Ami]patou, mám [F]horečku [C]zlatou,\n[C]jsem chudý, jsem [Ami]sláb, [Dmi]nemocen.[G7]",
+      "arrangement": {
+        "Kytara": { "lineStyle": "dotted", "comment": "Jemný doprovod" },
+        "Basa": { "lineStyle": "empty", "comment": "" }
+      }
+    },
+    {
+      "id": "b2",
+      "type": "Refrén",
+      "lyrics": "[C]Severní [C7]vítr je [F]krutý,\n[C]počítej [G7]lásko má s [C]tím.",
+      "arrangement": {
+        "Kytara": { "lineStyle": "solid", "comment": "Cvalový rytmus" },
+        "Basa": { "lineStyle": "solid", "comment": "Základní tóny" }
+      }
+    }
+  ]
+}

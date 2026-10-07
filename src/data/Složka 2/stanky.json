@@ -1,0 +1,26 @@
+{
+  "id": "stanky",
+  "title": "Stánky",
+  "author": "Brontosauři",
+  "key": "E dur",
+  "blocks": [
+    {
+      "id": "b1",
+      "type": "Sloka 1",
+      "lyrics": "[E]U stánků [A]na levnou krásu\n[E]postávaj [A]a smějou [H7]se\n[E]s cigaretou [A]a s holkou [H7]bez peněz.",
+      "arrangement": {
+        "Klavír": { "lineStyle": "dashed", "comment": "Jemné rozklady" },
+        "Sbor": { "lineStyle": "empty", "comment": "" }
+      }
+    },
+    {
+      "id": "b2",
+      "type": "Refrén",
+      "lyrics": "[E]Jenom [A]tak na rohu [H7]stát\n[E]a nechat [A]čas líně [H7]plynout.",
+      "arrangement": {
+        "Klavír": { "lineStyle": "solid", "comment": "Plný doprovod" },
+        "Sbor": { "lineStyle": "solid", "comment": "Hlasy v terciích" }
+      }
+    }
+  ]
+}

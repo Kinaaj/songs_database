@@ -1,0 +1,17 @@
+[
+  {
+    "id": "Složka 1",
+    "name": "Složka 1",
+    "description": "Táborákové a akustické verze"
+  },
+  {
+    "id": "Složka 2",
+    "name": "Složka 2",
+    "description": "Koncertní a sborové verze"
+  },
+  {
+    "id": "Složka 3",
+    "name": "Složka 3",
+    "description": "Novinky a jiné úpravy"
+  }
+]
